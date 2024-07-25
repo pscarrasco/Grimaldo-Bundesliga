@@ -1,4 +1,4 @@
-# Grimaldo-Bundesliga
+# Alejandro Grimaldo - Bundesliga 2023/2024
 Analysis of Alejandro Grimaldos performance in Bundesliga season 2023/2024
 
 ## Project Overview
