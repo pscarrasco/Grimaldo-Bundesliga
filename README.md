@@ -22,7 +22,7 @@ To run the analysis locally, follow these steps:
    git clone https://github.com/pscarrasco/Grimaldo-Bundesliga.git
 2. Install the required dependencies:
    pip install -r requirements.txt
-3. Open the Jupyter Notebook in the 'notebooks' folder.
+3. Open the Jupyter Notebook file.
 4. Run the project.
    
 ## Acknowledgements
